@@ -1,0 +1,28 @@
+{
+    "class_id": "com-snaplogic-snaps-google-googledynamicoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "TestAccount"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "expression": false,
+                "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                "sym_iv": "k14x0K1evc9jKLHN5ZpClA==",
+                "sym_key": "kGaXGi6kv/QdGZ7E6lv7SjEXExMuzEeSrwobP9TFwmltWAVJ53cyt0Jp+cJToMLOWq7xWySLFUIc25X6BUDTpgGinNa5+g9gribywp5nB+nSBtd9zyaqQOaCWpdlMY4rFKx/tKI92MZDhhGXeUZV08b7nPCuO8k8seglECqAF+mMGG3GimkVOMKs12qIjolCXHCVF7Nm2KG3rHcRRsP5QgENmwwWZBV8/aGqNulMVncfiy1RoytSvx67twFby/9lFA020pG1kAluWtmqxpacGRsr2EKevw8DKt++Ocwxqk4V65RhilIcpJ47rDMPSobI0LIVVxJAr5LAxVjaMc6Zhg==",
+                "value": "IMkkkZmph/HH0crmCPmvVg=="
+            }
+        },
+        "view_serial": 100
+    }
+}
